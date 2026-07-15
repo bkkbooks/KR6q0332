@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0332/v1
 canonical_location: https://kanripo.org/bkk/KR6q0332/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 石屋清洪禪師語錄
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0332_000.yaml, hash: 'sha256:20a9ce5e8addd530a7e6d6f0ec6c40109d1c1e211b53b12129a2f017c8c2f638'}
-  - {seq: 1, filename: KR6q0332_001.yaml, hash: 'sha256:82e439102546b126fb640b918f8030e5a3f046b174b0224ee139d8caea6f9537'}
-  - {seq: 2, filename: KR6q0332_002.yaml, hash: 'sha256:4576d17151b2ce7096eb13e24f0aeef60f2f5d3c99dd461095168cc9e9228241'}
+  - {seq: 0, filename: KR6q0332_000.yaml, hash: 'sha256:f20c7c2e668edf908713a62bd70c58046711380a140a8df8d3a2a1c4e87584f3'}
+  - {seq: 1, filename: KR6q0332_001.yaml, hash: 'sha256:be52486e6cf674874ca86e02c9b4ddad8806debc36660a9c94d2c04f824231c5'}
+  - {seq: 2, filename: KR6q0332_002.yaml, hash: 'sha256:1335468c56ca9406ba7022b10f8d073950b4e67359cc8e86670732123367669d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0332_000.markers.yaml, hash: 'sha256:1871ede6c763c044205791a6c0de6fbfd71e606cb53520fa1060ecbc066186ac'}
-  - {seq: 1, role: markers, filename: assets/KR6q0332_001.markers.yaml, hash: 'sha256:277cf684ce70ba7dceafc4c2bce1176dea386f106ae815ad2aac5367493db931'}
-  - {seq: 2, role: markers, filename: assets/KR6q0332_002.markers.yaml, hash: 'sha256:abe24dafdf2cc33531a4addaf758fddf5b730b933405315eceab8c4e1c86decd'}
+  - {seq: 0, role: markers, filename: assets/KR6q0332_000.markers.yaml, hash: 'sha256:32a8f6b83d73fbb3d305395abb8149e0b7f4f534b7c461ec391945a4d33c2812'}
+  - {seq: 1, role: markers, filename: assets/KR6q0332_001.markers.yaml, hash: 'sha256:d0b360d0c5af54b21395c0dd9d657746d13826cad121f1553b7f74f280529399'}
+  - {seq: 2, role: markers, filename: assets/KR6q0332_002.markers.yaml, hash: 'sha256:c593e5829b176e197b51fbc189251ad19bda3ed2390dc39d17ba91492c5cf2b7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -869,4 +869,7 @@ table_of_contents:
   label: No. 1399-C 福源石屋珙禪師塔銘
   type: mulu
   level: 1
-hash: sha256:abd124dc04d05104ad58afbb98e0a3a887732ee0601db87908a6211c56b25dec
+hash: sha256:e62fa6affa413d781c5a8130e458b5c8363a3aa7c5c3882496b3708a95efcf72
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
