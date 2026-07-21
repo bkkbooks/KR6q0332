@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0332_000-X.yaml, hash: 'sha256:20a9ce5e8addd530a7e6d6f0ec6c40109d1c1e211b53b12129a2f017c8c2f638'}
+  - {seq: 0, filename: KR6q0332_000-X.yaml, hash: 'sha256:76d0d210bdf6445b61041ba71c14c068ffead8aea5f8d8ca08475f7d590c73d3'}
   - {seq: 1, filename: KR6q0332_001-X.yaml, hash: 'sha256:82e439102546b126fb640b918f8030e5a3f046b174b0224ee139d8caea6f9537'}
   - {seq: 2, filename: KR6q0332_002-X.yaml, hash: 'sha256:4576d17151b2ce7096eb13e24f0aeef60f2f5d3c99dd461095168cc9e9228241'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0332_000-X.markers.yaml, hash: 'sha256:d591a21a2a7e49efb91e84ed61a093d32e3cdef16505422e0dcdad742f431239'}
+  - {seq: 0, role: markers, filename: assets/KR6q0332_000-X.markers.yaml, hash: 'sha256:08288070cfa6f765cbfede4f501520096a4ee273468c57534e5b554220e21216'}
   - {seq: 1, role: markers, filename: assets/KR6q0332_001-X.markers.yaml, hash: 'sha256:815df9e07df7b4ab26ac9f432b1610fa2857f6cd6e1493086634e2a4c5f4c576'}
   - {seq: 2, role: markers, filename: assets/KR6q0332_002-X.markers.yaml, hash: 'sha256:a5a6f2d4541014c04d591c0670d40bbaa84955e6afebdb5885cab2b94fa9c4f8'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0332_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1399-A 福源石屋珙禪師語錄原序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0332_X_000-mulu-2
     span:
-    - front
+    - body
     - 516
     - 516
   label: No. 1399-B
@@ -867,4 +867,4 @@ table_of_contents:
   label: No. 1399-C 福源石屋珙禪師塔銘
   type: mulu
   level: 1
-hash: sha256:cadb9b321ac4b9cb6dab4d2784141cea83fcab90012fed230938da704859246b
+hash: sha256:bc1fafa1ab11bbc4769f335148af01b5a6846b67707ba5c8076c25c0eab93309

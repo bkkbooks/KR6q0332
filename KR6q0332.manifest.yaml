@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0332_000.yaml, hash: 'sha256:f20c7c2e668edf908713a62bd70c58046711380a140a8df8d3a2a1c4e87584f3'}
+  - {seq: 0, filename: KR6q0332_000.yaml, hash: 'sha256:3313cc6b20dac64f4246f14bcfb68ae08ea80fd67c54ac72b782e79323cb6085'}
   - {seq: 1, filename: KR6q0332_001.yaml, hash: 'sha256:be52486e6cf674874ca86e02c9b4ddad8806debc36660a9c94d2c04f824231c5'}
   - {seq: 2, filename: KR6q0332_002.yaml, hash: 'sha256:1335468c56ca9406ba7022b10f8d073950b4e67359cc8e86670732123367669d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0332_000.markers.yaml, hash: 'sha256:32a8f6b83d73fbb3d305395abb8149e0b7f4f534b7c461ec391945a4d33c2812'}
+  - {seq: 0, role: markers, filename: assets/KR6q0332_000.markers.yaml, hash: 'sha256:33945c4009f18883782c830302cbcad349af8d9487b2e70a33c4399dd9e51c13'}
   - {seq: 1, role: markers, filename: assets/KR6q0332_001.markers.yaml, hash: 'sha256:d0b360d0c5af54b21395c0dd9d657746d13826cad121f1553b7f74f280529399'}
   - {seq: 2, role: markers, filename: assets/KR6q0332_002.markers.yaml, hash: 'sha256:c593e5829b176e197b51fbc189251ad19bda3ed2390dc39d17ba91492c5cf2b7'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0332_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1399-A 福源石屋珙禪師語錄原序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0332_X_000-mulu-2
     span:
-    - front
+    - body
     - 516
     - 516
   label: No. 1399-B
@@ -869,7 +869,7 @@ table_of_contents:
   label: No. 1399-C 福源石屋珙禪師塔銘
   type: mulu
   level: 1
-hash: sha256:e62fa6affa413d781c5a8130e458b5c8363a3aa7c5c3882496b3708a95efcf72
+hash: sha256:09ccc309e1cfff2b4b527e33d6eb01d201a006a23b63feb1ed4b8dd5545870ac
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
